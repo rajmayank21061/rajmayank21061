@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey , I'm Mayank Raj ,working on web development technologies.<br>I am doing B Tech CS domain.<br>I have done my dsa and I am practicing real based dsa problems.
+Hey , I'm Mayank, doing B Tech in cs domain.<br>And Working on web development technologies.<br>I have done dsa in java programming lang and I am practicing real based dsa problems.
 
 
 ## 🌐 Socials:
